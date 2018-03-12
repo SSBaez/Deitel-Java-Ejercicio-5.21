@@ -1,2 +1,4 @@
 # Deitel-Java-Ejercicio-5.21
 Como Programar en Java 10 Edicion Paul Deitel. Ejercicio 5.21 (Ternas pitagoricas)
+
+Un triángulo rectángulo puede tener lados cuyas longitudes sean valores enteros. El conjunto de tres valores enteros para las longitudes de los lados de un triángulo rectángulo se conoce como terna pitagórica. Las longitudes de los tres lados deben satisfacer la relación que establece que la suma de los cuadrados de dos lados es igual a l cuadrado de la hipotenusa. Escriba una aplicación que muestre una tabla de las ternas pitagóricas para lado1, lado2 y la hipotenusa, que no sean mayores de 500. Use un ciclo for triplemente anidado para probar todas las posibilidades. Este método es un ejemplo de la computación de “fuerza bruta”. En cursos de ciencias computacionales más avanzados aprenderá que existen muchos problemas interesantes para los cuales no hay otra metodología algorítmica conocida, más que el uso de la fuerza bruta
